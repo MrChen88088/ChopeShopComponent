@@ -1,0 +1,27 @@
+PODS:
+  - ChopeShopCommerce (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ChopeShopCommerce (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ChopeShopCommerce:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChopeShopCommerce: 8e3d1c78ea5ee751699bf4a9f168b61e131d1262
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 293a9ffb38665d0e90aabc06aa9571bbd6786683
+
+COCOAPODS: 1.5.3

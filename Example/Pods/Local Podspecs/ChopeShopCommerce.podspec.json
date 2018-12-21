@@ -1,0 +1,22 @@
+{
+  "name": "ChopeShopCommerce",
+  "version": "0.1.0",
+  "summary": "A short description of ChopeShopCommerce.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenljit@163.com/ChopeShopCommerce",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenljit@163.com": "kevin.chen@chope.co"
+  },
+  "source": {
+    "git": "https://github.com/chenljit@163.com/ChopeShopCommerce.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ChopeShopCommerce/Classes/**/*"
+}

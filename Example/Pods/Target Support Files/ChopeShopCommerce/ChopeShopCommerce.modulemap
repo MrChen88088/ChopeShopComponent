@@ -1,0 +1,6 @@
+framework module ChopeShopCommerce {
+  umbrella header "ChopeShopCommerce-umbrella.h"
+
+  export *
+  module * { export * }
+}

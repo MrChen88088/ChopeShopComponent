@@ -1,0 +1,6 @@
+framework module Pods_ChopeShopCommerce_Example {
+  umbrella header "Pods-ChopeShopCommerce_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
